@@ -9,5 +9,8 @@ describe('Checkbox Test', () => {
                     let checkbox1 = $("#checkboxes input:nth-child(1)");
                     checkbox1.click();
 
+                    let checkbox2 = $("#checkboxes input:nth-child(3)");
+                    checkbox2.click();
+
           });
 });
