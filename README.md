@@ -1,2 +1,2 @@
-# learnwebdriverio
-learn webdriverio
+# WebDriverIO Test
+Docs: https://webdriver.io/
